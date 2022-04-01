@@ -1,5 +1,6 @@
 CACHE MANIFEST
-# random: 448e0a0a77574f1d465fc02328399945x1
+# random: 448e0a0a77574f1d465fc02328399945x2
+# Update to GoldHEN 2.2.2
 
 CACHE:
 index.html
@@ -14,7 +15,7 @@ jb.js
 netcat.js
 mira/mira.js
 mira/mira2.js
-672_goldhen11.js
+goldhen_2.2.2_672.js
 ftp.js
 fakeusb.js
 linux/1gb.js
